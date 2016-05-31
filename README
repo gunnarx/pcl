@@ -185,12 +185,15 @@ Documentation
 ----------------------------
 For details about the Persistence Client Library, please refer to to following documents:
 
-- Persistence Client Library Architecture Documentation:
-  http://docs.projects.genivi.org/persistence-client-library/1.0/GENIVI_Persistence_ArchitectureDocumentation.pdf
+    * Persistence Architecture Manual (PDF)
+    * Persistence Client Library User Guide (PDF)
 
-- Persistence Client Library User Manual: 
-  http://docs.projects.genivi.org/persistence-client-library/1.0/GENIVI_Persistence_Client_Library_UserManual.pdf
+Related documentation also exists for:
+    * Persistence Common Object (PDF)
+    * Persistence Database Configuration tool (PDF)
 
+Please refer to this docs site to find the documents:
+http://docs.projects.genivi.org/persistence-client-library
 
 ----------------------------
 How to create doxygen documentation
